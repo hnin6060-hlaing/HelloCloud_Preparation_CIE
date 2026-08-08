@@ -1,0 +1,6 @@
+2026-08-08T11:32:08.384+0900 [INFO]  Terraform version: 1.15.8
+2026-08-08T11:32:08.385+0900 [INFO]  Go runtime version: go1.25.10
+2026-08-08T11:32:08.385+0900 [INFO]  CLI args: []string{"terraform", "init"}
+2026-08-08T11:32:08.386+0900 [INFO]  CLI command args: []string{"init"}
+2026-08-08T11:32:25.448+0900 [WARN]  expired openpgp key from HashiCorp Security (hashicorp.com/security) <security@hashicorp.com>
+2026-08-08T11:32:25.449+0900 [WARN]  expired openpgp key from HashiCorp Security (hashicorp.com/security) <security@hashicorp.com>
